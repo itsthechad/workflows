@@ -7,5 +7,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "Chad C"
+  "author": "Chad C",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7"
+  }
 }
